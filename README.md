@@ -1,6 +1,8 @@
 ## 제공 데이터
 핸즈온 데이터는 여성쇼핑몰을 한 번에 모아주는 필수 앱 <a href="https://www.notion.so/croquis/a561a88ad03e4022860924fd557a0da3" target="_blank">지그재그</a>에서 제공하였습니다.
 
+https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58/mobilebasic
+
 ### 항목
 - 지그재그 앱 이용자 로그
 - 이용자 정보 (id, OS, 연령)
